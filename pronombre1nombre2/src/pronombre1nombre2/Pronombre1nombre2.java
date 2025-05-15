@@ -13,6 +13,6 @@ public static void main(String[] args) {
     System.out.println("Hola desde Git en NetBeans");
     System.out.println("Segundo cambio confirmado");
     System.out.println("Tercer cambio subido a GitHub");
-    System.out.println("Cuarto cambio realizado por el primer usuario");
+    System.out.println("Cambio hecho SOLO por el segundo usuario");
 }
 }
